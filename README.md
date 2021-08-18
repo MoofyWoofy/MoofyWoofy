@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Melvin and welcome to my GitHub Profile!
 
 
-I'm a student pursuing InfoComm security. I'm a passionate learner who's always seeking to learn and work across as many technologies and domains as I can 💡. I also love to help people with their problems especially python.
+I'm a student pursuing InfoComm Security. I'm a passionate learner who's always seeking to learn and work across as many technologies and domains as I can 💡. I also love to help people with their problems especially with python.
 
 
 
@@ -20,21 +20,16 @@ I'm a student pursuing InfoComm security. I'm a passionate learner who's always 
 
 
 ### Languages and Tools:
-<style>
-    .icons{
-        margin-right: 1em;
-    }
-</style>
-<img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode">
-<img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5">
-<img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3">
-<img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
-<img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
-<img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp">
-<img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql">
-<img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
-<!-- <img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"> -->
-<!-- <img class="icons" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab"> -->
+<img style="margin-right:1em" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode">
+<img style="margin-right:1em" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5">
+<img style="margin-right:1em" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3">
+<img style="margin-right:1em" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
+<img style="margin-right:1em" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
+<img style="margin-right:1em" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp">
+<img style="margin-right:1em" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql">
+<img style="margin-right:1em" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
+<!-- <img style="margin-right:1em" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"> -->
+<!-- <img style="margin-right:1em" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab"> -->
 
 ---
 
