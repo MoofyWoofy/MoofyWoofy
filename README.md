@@ -8,9 +8,10 @@ I'm a student pursuing InfoComm Security. I'm a passionate learner who's always 
 ### About Me
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning three.js
+- 🌱 I’m currently learning React <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
 
-- 💬 Ask me about Python, it's my favorite language of all time 
+
+- 💬 Ask me anything IT related - I am an IT Geek!
 
 <!-- - 📫 How to reach me: ... -->
 
@@ -36,10 +37,10 @@ I'm a student pursuing InfoComm Security. I'm a passionate learner who's always 
 ### GitHub Stats
 <!-- source code: https://github.com/anuraghazra/github-readme-stats -->
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=moofywoofy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=moofywoofy&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true" />
 
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moofywoofy&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moofywoofy&show_icons=true&hide_border=true&langs_count=6&theme=react"/>
 
 
 
@@ -52,8 +53,7 @@ I'm a student pursuing InfoComm Security. I'm a passionate learner who's always 
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
 
-<!-- <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/lang/lang.png" height="40" alt="lang"/>
- -->
+<!-- <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/lang/lang.png" height="40" alt="lang"/> -->
 
 <!-- <img alt="lang" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lang/lang.png" /> -->
 
