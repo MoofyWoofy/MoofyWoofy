@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Melvin and welcome to my GitHub Profile!
 
 
-I'm a student pursuing InfoComm Security. I'm a passionate learner who's always seeking to learn and work across as many technologies and domains as I can 💡. I also love to help people with their problems especially with python.
+I'm a passionate learner who's always seeking to learn and work across as many technologies and domains as I can 💡. I also love to help people with their problems especially with python & JavaScript.
 
 
 
@@ -11,7 +11,7 @@ I'm a student pursuing InfoComm Security. I'm a passionate learner who's always 
 - 🌱 I’m currently learning React <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
 
 
-- 💬 Ask me anything IT related - I am an IT Nerd!
+- 💬 Ask me anything IT related - I am a technophile!
 
 <!-- - 📫 How to reach me: ... -->
 
