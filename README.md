@@ -8,7 +8,7 @@ I'm a passionate learner who's always seeking to learn and work across as many t
 ### About Me
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning React <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
+- 🌱 I’m currently learning Dart <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart">
 
 
 - 💬 Ask me anything IT related - I am a technophile!
@@ -39,14 +39,12 @@ I'm a passionate learner who's always seeking to learn and work across as many t
 
 ---
 
-### GitHub Stats
 <!-- source code: https://github.com/anuraghazra/github-readme-stats -->
 
-<div style="display:flex;justify-content:space-around;align-items:center;">
+<div align="center">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=moofywoofy&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true&theme=graywhite&bg_color=45,5da7e7,5de797,5de797,5de7e7" />
   
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=moofywoofy&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true" />
-  
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moofywoofy&show_icons=true&hide_border=true&langs_count=6&theme=react"/>
+  <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=moofywoofy&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite&bg_color=45,5da7e7,5de797,5de797,5de7e7"/>
 </div>
 
 
