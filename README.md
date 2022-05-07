@@ -10,14 +10,13 @@ I'm a passionate learner who's always seeking to learn and work across as many t
 
 - 🌱 I’m currently learning Dart <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart">
 
+- 💬 Ask me anything - I will try to give my best to answer! 🙃
 
-- 💬 Ask me anything IT related - I am a technophile!
-
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: Open an issue!
 
 <!-- - 😄 Pronouns: ... -->
 
-- ⚡ Fun fact:  0.1 + 0.2 = 0.30000000000000004
+- ⚡ Fun fact:  0.1 + 0.2 = [0.30000000000000004](https://0.30000000000000004.com/)
 
 
 ### Languages and Tools:
@@ -39,17 +38,17 @@ I'm a passionate learner who's always seeking to learn and work across as many t
 
 ---
 
-<!-- source code: https://github.com/anuraghazra/github-readme-stats -->
+<!-- source for GitHub status: https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=moofywoofy&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true&theme=graywhite&bg_color=45,5da7e7,5de797,5de797,5de7e7" />
-  
-  <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=moofywoofy&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite&bg_color=45,5da7e7,5de797,5de797,5de7e7"/>
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=moofywoofy&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true&title_color=003697&text_color=000000&icon_color=8F00FF&bg_color=45,5da7e7,5de797,5de797,5de7e7&border_radius=15" />
+  <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=moofywoofy&show_icons=true&hide_border=true&layout=compact&langs_count=6&title_color=8d5d05&text_color=000000&bg_color=45,5da7e7,5de797,5de797,5de7e7&border_radius=15&hide=scss" />
 </div>
 
 
 
 
+<!-- End  -->
 
 [website]: https://example.com
 [twitter]: https://twitter.com/
