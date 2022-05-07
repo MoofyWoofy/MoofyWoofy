@@ -41,8 +41,8 @@ I'm a passionate learner who's always seeking to learn and work across as many t
 <!-- source for GitHub status: https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=moofywoofy&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true&title_color=003697&text_color=000000&icon_color=8F00FF&bg_color=45,5da7e7,5de797,5de797,5de7e7&border_radius=15" />
   <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=moofywoofy&show_icons=true&hide_border=true&layout=compact&langs_count=6&title_color=8d5d05&text_color=000000&bg_color=45,5da7e7,5de797,5de797,5de7e7&border_radius=15&hide=scss" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=moofywoofy&show_icons=true&count_private=true&hide_border=true&include_all_commits=false&hide_title=true&title_color=003697&text_color=000000&icon_color=8F00FF&bg_color=45,5da7e7,5de797,5de797,5de7e7&border_radius=15" />
 </div>
 
 
