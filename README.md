@@ -1,18 +1,14 @@
-# Hi there 👋 , I'm Melvin and welcome to my GitHub Profile!
-
-
-I'm a passionate learner who's always seeking to learn and work across as many technologies and domains as I can 💡. I also love to help people with their problems especially with python & JavaScript.
-
+# Hi there 👋!
 
 
 ### About Me
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning Dart <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart">
+- 🌱 I’m currently learning <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter ">
 
-- 💬 Ask me anything - I will try to give my best to answer! 🙃
+- 💬 Ask me anything - I will try my best to answer! 🙃
 
-- 📫 How to reach me: Open an issue!
+- 📫 How to reach me: [Open an issue!](https://github.com/MoofyWoofy/MoofyWoofy/issues/new)
 
 <!-- - 😄 Pronouns: ... -->
 
@@ -31,7 +27,9 @@ I'm a passionate learner who's always seeking to learn and work across as many t
 <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
 <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github">
 <!-- <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab"> -->
-<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi">
+<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
+</div>
+<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss">
 </div>
 
 <br>
