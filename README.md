@@ -8,7 +8,7 @@
 
 - 💬 Ask me anything - I will try my best to answer! 🙃
 
-- 📫 How to reach me: [Open an issue!](https://github.com/MoofyWoofy/MoofyWoofy/issues/new)
+- 📫 How to reach me: [Open an issue!](https://github.com/MoofyWoofy/MoofyWoofy/issues/new)  Or [Send me an email](mailto:melvin@moofy.xyz?subject=Hello)
 
 <!-- - 😄 Pronouns: ... -->
 
@@ -17,19 +17,17 @@
 
 ### Languages and Tools:
 <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;">
-<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode">
+<!-- <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"> -->
 <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5">
 <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3">
 <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
 <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
 <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp">
+<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter">
 <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql">
-<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
-<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github">
 <!-- <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab"> -->
-<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
-</div>
-<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss">
+<!-- <img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"> -->
+<img style="margin:10px" height="40" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss">
 </div>
 
 <br>
